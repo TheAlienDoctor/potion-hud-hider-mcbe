@@ -26,5 +26,12 @@
                 2
             ]
         }
-    ]
+    ],
+	 "metadata": {
+		"authors": [
+			"TheAlienDoctor"
+		],
+		"license": "BSD 3-Clause License",
+		"url": "https://TheAlienDoctor.com"
+	}
 }
