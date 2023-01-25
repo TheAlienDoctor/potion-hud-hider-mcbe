@@ -1,13 +1,13 @@
 ﻿{
     "format_version": 2,
     "header": {
-        "description": "A pack to remove the potion effects HUD at the side of your screen §r| §9© TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.1 §r",
-        "name": "§1§lAlien's §ePotion HUD remover §4(V1.0.1)§r",
+		"description": "§rRemoves the potion effects HUD that appears at the side of your screen when you have a potion effect. | §3© TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.2 §r",
+		"name": "§1§lAlien's§r §ePotion HUD Hider §4(RP-V1.0.2)§r",
         "uuid": "50edeb28-dc78-45b2-a7e7-5b40a557f44c",
         "version": [
             1,
             0,
-            1
+            2
         ],
         "min_engine_version": [
             1,
@@ -17,13 +17,13 @@
     },
     "modules": [
         {
-            "description": "A pack to remove the potion effects HUD at the side of your screen §r| §9© TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.1 §r",
+		"description": "§rRemoves the potion effects HUD that appears at the side of your screen when you have a potion effect. | §3© TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.2 §r",
             "type": "resources",
             "uuid": "d1513b13-0529-491d-8061-52c21e84f0e9",
             "version": [
                 1,
                 0,
-                1
+                2
             ]
         }
     ]
